@@ -5,5 +5,5 @@ package com.proto.dummy;
 
 public interface DummyMessageOrBuilder extends
     // @@protoc_insertion_point(interface_extends:dummy.DummyMessage)
-    com.google.protobuf.MessageOrBuilder {
+    com.google.protobuf.MessageLiteOrBuilder {
 }
